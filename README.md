@@ -2,7 +2,7 @@
 
 ## desc général
 WebSocketMorpion est un morpion en ligne qui utilise du web socket pour réaliser la communication entre plusieurs clients.
-Ce projet est de base la réalisation du tuto reactjs où l'objectif est d'apprendre à utiliser quelque outils que propose reactjs [lien]](https://fr.legacy.reactjs.org/tutorial/tutorial.html).
+Ce projet est de base la réalisation du tuto reactjs où l'objectif est d'apprendre à utiliser quelque outils que propose reactjs [lien](https://fr.legacy.reactjs.org/tutorial/tutorial.html).
 
 ## pourquoi ce projet 
 Après avoir réaliser le tuto reactjs je me suis sentis seul d'y jouer, je voulais profiter de mon jeu avec une autre personne sauf que de jouer sur une seule page est pas pratique. c'est pourquoi j'ai sauté sur l'occasion pour réaliser une communication web-socket avec un server back qui aura pour rôle de communiquer la progression de la partie entre les clients.
